@@ -1,0 +1,10 @@
+name: BVote
+version: 1.0.0
+main: fr.tom.bvote.BVote
+author: tom
+
+commands:
+  bvote:
+    usage: /<command>
+    description: Base command for bvote.
+    aliases: [ b ]
